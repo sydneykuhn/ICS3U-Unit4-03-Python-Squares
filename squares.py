@@ -10,7 +10,7 @@ def main():
 
     # this is to keep track of the loop and calculate the sum
     loop_counter = 1
-    total = 1
+    square = 0
 
     # input
     user_input_as_string = input("Enter a integer >= 0: ")
